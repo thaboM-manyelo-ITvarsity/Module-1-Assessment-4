@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    font-family: cursive;
+}
+h3{
+    color: blueviolet;
+}
+h4{
+    color: green;
+}
+p{
+    color: grey;
+    font-family: fantasy;
+}
+th{
+    font-weight: 800;
+    background-color: #BF00FF;
+    color: #ffffff;
+}
+table{
+    font-family: cursive;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ff000034;
+}
